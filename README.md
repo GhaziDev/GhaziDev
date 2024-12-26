@@ -28,5 +28,4 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/ghazi-zabalawi-424168219/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GhaziDev&show_icons=true&locale=en" alt="GhaziDev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhaziDev&" alt="GhaziDev" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhaziDev&show_icons=true&locale=en&layout=compact" alt="GhaziDev" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GhaziDev" alt="GhaziDev" /></a></p>
